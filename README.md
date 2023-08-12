@@ -1,8 +1,8 @@
 # happybirthday
- Happy birthday pendamping hidupku! Semoga menjadi pribadi yang semakin baik, sukses, dan tentunya selalu sayang dan cinta aku juga. I love you.
+ Happy birthday Tia Khaerani! Semoga menjadi pribadi yang semakin baik, sukses, dan tentunya selalu sayang dan cinta aku juga. I love you.
 
 # Demo Site
- <a href="https://wafarifki.github.io/happybirthday/">https://wafarifki.github.io/happybirthday/</a>
+ <a href="https://tiakhaerani.github.io/happybirthday/">https://tiakhaerani.github.io/happybirthday/</a>
 
 # Let's connect with me!
 <p>
